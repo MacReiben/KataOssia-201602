@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+*.suo
+*.dll
+*.pdb
+/TripServiceKata.Tests/bin/Debug
+/TripServiceKata.Tests/obj/Debug
+/TripServiceKata/obj/Debug
+/TestResults
